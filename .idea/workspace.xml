@@ -120,7 +120,7 @@
       <workItem from="1704476185925" duration="9000" />
       <workItem from="1704545694679" duration="19386000" />
       <workItem from="1704616279045" duration="2960000" />
-      <workItem from="1704788287257" duration="18253000" />
+      <workItem from="1704788287257" duration="20540000" />
     </task>
     <task id="LOCAL-00001" summary="First commit tpo check jupyter">
       <option name="closed" value="true" />
@@ -130,7 +130,23 @@
       <option name="project" value="LOCAL" />
       <updated>1703601240634</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First commit tpo check jupyter">
+      <option name="closed" value="true" />
+      <created>1704828465662</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704828465662</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First commit tpo check jupyter">
+      <option name="closed" value="true" />
+      <created>1704828616562</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704828616562</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
